@@ -21,7 +21,7 @@
 title: Halton's Company
 email: j@fap.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Gaming blog about my dnd characters I started at age 9, finally getting 
+  Gaming blog about my dnd characters I started at a young age, finally getting 
   around to writting about them. Fun times!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://frizop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
